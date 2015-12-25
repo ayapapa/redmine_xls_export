@@ -11,5 +11,5 @@ end
 
 group :test do
   gem 'launchy'
-  gem 'simplecov', :require => false
+#  gem 'simplecov', :require => false
 end
